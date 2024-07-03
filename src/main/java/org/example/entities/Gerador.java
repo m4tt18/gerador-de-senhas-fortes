@@ -14,7 +14,7 @@ public class Gerador {
         String characters = CHARACTERS_LOWERCASE + CHARACTERS_NUMBERS;
         if (uppercaseInclusion) {
             characters += CHARACTERS_UPPERCASE;
-        } else if (specialInclusion) {
+        } if (specialInclusion) {
             characters += CHARACTERS_SPECIAL;
         }
 

@@ -4,17 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deeeec7-d4cf-4a3a-9554-edeb209f4e8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6deeeec7-d4cf-4a3a-9554-edeb209f4e8d" name="Changes" comment="Commit - Criação das variáveis e métodos da classe Gerador.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/application/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "m4tt18"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/m4tt18/gerador-de-senhas-fortes.git",
+    "accountId": "87a33022-03e1-48b9-a467-07865ff0e0cc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -26,12 +45,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/mateu/IdeaProjects/gerador-de-senhas-fortes/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.application.Application" />
+      <module name="gerador-de-senhas-fortes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,13 +82,44 @@
       <option name="presentableId" value="Default" />
       <updated>1720034361956</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit - Criação do projeto">
+      <option name="closed" value="true" />
+      <created>1720034540231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720034540231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit - Criação dos pacotes Application e Entities, com as classes Application(main) e Gerador.">
+      <option name="closed" value="true" />
+      <created>1720034751166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720034751166</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit - Criação das variáveis e métodos da classe Gerador.">
+      <option name="closed" value="true" />
+      <created>1720035100104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720035100104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit - Criação do projeto" />
+    <MESSAGE value="Commit - Criação dos pacotes Application e Entities, com as classes Application(main) e Gerador." />
+    <MESSAGE value="Commit - Criação das variáveis e métodos da classe Gerador." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criação das variáveis e métodos da classe Gerador." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/application/Application.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
