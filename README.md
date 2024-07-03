@@ -1,6 +1,6 @@
 # Gerador de Senhas Fortes (Java)
 
-Aplicação simples para geração de senhas formas para ser utilizado em sistemas de login, servindo como proteção para o usuário e para gerar chaves;
+Aplicação simples para geração de senhas fortes para ser utilizado em sistemas de login, servindo como proteção para o usuário e para gerar chaves;
 
 ## Aplicação
 
